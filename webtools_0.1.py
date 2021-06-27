@@ -805,7 +805,7 @@ def main():
                                                           
     print(Fore.GREEN + """       
                                                         Rejoins ce serveur Discord pour plus de tools gratuits!
-                                                                      https://billy.loca.lt/server
+                                                                     https://billy.loca.lt/discord
 
 
                                                         """)
