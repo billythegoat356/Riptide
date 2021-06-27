@@ -804,8 +804,8 @@ def main():
                                                     ______________________________________________________________""")                                           
                                                           
     print(Fore.GREEN + """       
-                                                            Rejoins ce serveur pour plus de tools gratuits!
-                                                                            discord.gg/billy
+                                                        Rejoins ce serveur Discord pour plus de tools gratuits!
+                                                                      https://billy.loca.lt/server
 
 
                                                         """)
