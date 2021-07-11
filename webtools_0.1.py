@@ -168,7 +168,7 @@ def webhook_mode():
 
 
     elif webhook_choice_mode == "q":
-        return
+        main()
 
 
     lien = input(Fore.YELLOW + "[>] Entrez le lien du webhook : ")
