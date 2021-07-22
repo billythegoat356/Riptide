@@ -801,10 +801,10 @@ def main():
                                                         1 : Webhooks      3 : Gen Tools    5 : Signaler un bug                                                                                                                                
                                                                                                                 
                                                         2 : Token Tools   4 : Malware      6 : Boite de réception
-                                                    ______________________________________________________________""")                                           
+                                                    ______________________________________________________________""")
+    
                                                           
-    print(Fore.GREEN + """       
-                                                             Vas sur ce site pour plus de tools gratuits!
+    print(Fore.GREEN + """                                 Vas sur mon GitHub pour plus de tools gratuits!
                                                                   https://github.com/billythegoat356
 
 
