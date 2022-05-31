@@ -66,7 +66,7 @@ original source, Python, showing you the source code of the file.
 ### <p align="center">🎬 Credits 🎬</p>
 
 <br><br>
-* [svenskithesource](https://github.com/Svenskithesource) | Helped me understand how .PYC files work, in order to decompile them
+* [svenskithesource](https://github.com/Svenskithesource) | Helped me understand how .PYC files work, in order to decompile them (also, check [his](https://github.com/Svenskithesource/PY4COC) decompile program, that also deobfuscates the code)
 * [pyinstxtractor](https://github.com/extremecoders-re/pyinstxtractor) | The program used to decompile from .EXE to .PYC
 * [pycdc](https://github.com/zrax/pycdc) | The program used to decompile from .PYC to .PY
 <br><br>
