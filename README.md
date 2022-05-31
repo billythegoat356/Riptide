@@ -35,7 +35,7 @@ original source, Python, showing you the source code of the file.
 </p>
 
 <br>
-<strong>- Sometimes the extraction isn't complete, but it happens rarely</strong>
+<strong>- Sometimes the decompilation isn't complete, but it happens rarely</strong>
 <br><br>
 
 -----
