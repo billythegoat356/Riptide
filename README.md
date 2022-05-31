@@ -25,7 +25,7 @@ original source, Python, showing you the source code of the file.
 ### <p align="center">⭐ Features ⭐</p>
 
 <br><br>
-<strong>+ Really fast</strong>
+<strong>+ Really fast, the decompilation lasts no longer than 2 seconds</strong>
 <br>
 <strong>+ Powerful</strong>
 <br>
