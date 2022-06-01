@@ -28,7 +28,7 @@ original source, Python, showing you the source code of the file.
 
 <br><br>
 * <a href="https://www.python.org/ftp/python/3.9.13/python-3.9.13-amd64.exe">Python3</a>
-* `pip install -r requirements.txt`
+* `pip install -U -r requirements.txt` or run setup.bat
 * <a href="https://go.microsoft.com/fwlink/?LinkId=691126">Visual C++ Build Tools</a>
 <br><br>
 
